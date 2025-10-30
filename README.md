@@ -9,13 +9,13 @@ The 2 video generation task include:
 ## Screen Recoding Link for the Comfy UI Workflow Execution.
 
 Screen recording link for the video replaced with both the character and the background.
-```
-https://www.youtube.com/watch?v=GDAr4xFrywE
-```
+
+[https://www.youtube.com/watch?v=GDAr4xFrywE](https://www.youtube.com/watch?v=GDAr4xFrywE)
+
 Screen recording link for the video with the background retained and the character replaced
-```
-https://www.youtube.com/watch?v=WFv2ZG8DwQc
-```
+
+[https://www.youtube.com/watch?v=WFv2ZG8DwQc](https://www.youtube.com/watch?v=WFv2ZG8DwQc)
+
 
 ## For Instruction Regarding Setup
 [Setup Instruction](https://github.com/srmahapatra95/Comfy-UI-Task/blob/main/setup_instructions.md).
